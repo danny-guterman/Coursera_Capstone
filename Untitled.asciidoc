@@ -1,0 +1,39 @@
++*In[2]:*+
+[source, ipython3]
+----
+# this notebook will be used for Capstone 
+----
+
+
++*In[3]:*+
+[source, ipython3]
+----
+import pandas as pd
+----
+
+
++*In[5]:*+
+[source, ipython3]
+----
+import numpy as np
+----
+
+
++*In[7]:*+
+[source, ipython3]
+----
+print("Hello Capstone Project Course!")
+----
+
+
++*Out[7]:*+
+----
+Hello Capstone Project Course!
+----
+
+
++*In[ ]:*+
+[source, ipython3]
+----
+
+----
